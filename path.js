@@ -1,4 +1,5 @@
 import path from "path";
+import OS from "os";
 import { log } from "./functions.js";
 const indexPath = "E:/Learning_Backend/Node.js/Day_1/index.js";
 const newPath = "E:/Learning_Backend";
